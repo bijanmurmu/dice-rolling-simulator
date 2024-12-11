@@ -12,7 +12,7 @@ A beginner-friendly Python app to roll virtual dice using a graphical interface.
 
 ## How to Run
 
-1. Make sure Python 3.6+ is installed.
+1. Make sure Python is installed.
 2. Run the script:
    ```bash
    python dice-rolling-simulator.py
